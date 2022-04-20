@@ -6,7 +6,8 @@ Use pug/Scss
 npm install               // 安裝專案dependencies
 npm i -g parcel-bundler   // 全局安裝 parcel
 
-parcel aboutUs.pug  // 會出現  http://localhost:1234 ，Ctrl + click 即可開啟頁面
+parcel aboutUs.pug        // 會出現  
+                          // http://localhost:1234 ，Ctrl + click 即可開啟頁面
 
 ```
 
